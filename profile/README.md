@@ -106,5 +106,6 @@ Public specifications and reference artifacts will be released in stages.
 
 Website: https://memrail.com  
 Entity definition: https://memrail.com/entity  
+Decision Plane definition: https://memrail.com/decision-plane
 
 Built by Cadenzai, Inc.
